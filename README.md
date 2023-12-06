@@ -9,10 +9,12 @@ Demo notebooks for [lcviz](https://github.com/spacetelescope/lcviz).  These note
 #### Plot Options
 
 * [RR-Lyrae](mult_ephem_RR-Lyr.ipynb)
+* [HAT-P-7](short_cadence_phase_curve_HAT-P-7.ipynb)
 
 #### Flattening
 
 * [KIC 2835289](mult_ephem_kic_2835289.ipynb)
+* [HAT-P-7](short_cadence_phase_curve_HAT-P-7.ipynb)
 
 #### Frequency Analysis
 
@@ -22,12 +24,23 @@ Demo notebooks for [lcviz](https://github.com/spacetelescope/lcviz).  These note
 
 * [KIC 2835289](mult_ephem_kic_2835289.ipynb)
 * [RR-Lyrae](mult_ephem_RR-Lyr.ipynb)
+* [HAT-P-7](short_cadence_phase_curve_HAT-P-7.ipynb)
+
+
+#### Binning
+
+* [HAT-P-7](short_cadence_phase_curve_HAT-P-7.ipynb)
+
 
 ## Science Topics
 
 #### Eclipsing Binaries
 
 * [KIC 2835289](mult_ephem_kic_2835289.ipynb)
+
+#### Exoplanets
+
+* [HAT-P-7](short_cadence_phase_curve_HAT-P-7.ipynb)
 
 #### Pulsating Stars
 
