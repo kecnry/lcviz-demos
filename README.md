@@ -6,18 +6,29 @@ Demo notebooks for [lcviz](https://github.com/spacetelescope/lcviz).  These note
 
 ## Plugins
 
+#### Plot Options
+
+* [RR-Lyrae](mult_ephem_RR-Lyr.ipynb)
+
 #### Flattening
 
 * [KIC 2835289](mult_ephem_kic_2835289.ipynb)
 
+#### Frequency Analysis
+
+* [RR-Lyrae](mult_ephem_RR-Lyr.ipynb)
 
 #### Ephemeris / Phase-Folding
 
 * [KIC 2835289](mult_ephem_kic_2835289.ipynb)
-
+* [RR-Lyrae](mult_ephem_RR-Lyr.ipynb)
 
 ## Science Topics
 
 #### Eclipsing Binaries
 
 * [KIC 2835289](mult_ephem_kic_2835289.ipynb)
+
+#### Pulsating Stars
+
+* [RR-Lyrae](mult_ephem_RR-Lyr.ipynb)
