@@ -10,6 +10,7 @@ Demo notebooks for [lcviz](https://github.com/spacetelescope/lcviz).  These note
 
 * [RR-Lyrae](mult_ephem_RR-Lyr.ipynb)
 * [HAT-P-7](short_cadence_phase_curve_HAT-P-7.ipynb)
+* [KIC 3954798](target_pixel_file_kic_3954798.ipynb)
 
 #### Flattening
 
@@ -25,18 +26,22 @@ Demo notebooks for [lcviz](https://github.com/spacetelescope/lcviz).  These note
 * [KIC 2835289](mult_ephem_kic_2835289.ipynb)
 * [RR-Lyrae](mult_ephem_RR-Lyr.ipynb)
 * [HAT-P-7](short_cadence_phase_curve_HAT-P-7.ipynb)
-
+* [KIC 3954798](target_pixel_file_kic_3954798.ipynb)
 
 #### Binning
 
 * [HAT-P-7](short_cadence_phase_curve_HAT-P-7.ipynb)
 
+#### Time Selector
+
+* [KIC 3954798](target_pixel_file_kic_3954798.ipynb)
 
 ## Science Topics
 
 #### Eclipsing Binaries
 
 * [KIC 2835289](mult_ephem_kic_2835289.ipynb)
+* [KIC 3954798](target_pixel_file_kic_3954798.ipynb)
 
 #### Exoplanets
 
