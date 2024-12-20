@@ -6,6 +6,8 @@ Demo notebooks for [lcviz](https://github.com/spacetelescope/lcviz).  These note
 
 ## Plugins
 
+* [Using the Plugin APIs](plugin_APIs.ipynb)
+
 #### Plot Options
 
 * [RR-Lyrae](mult_ephem_RR-Lyr.ipynb)
@@ -14,6 +16,7 @@ Demo notebooks for [lcviz](https://github.com/spacetelescope/lcviz).  These note
 
 #### Flattening
 
+* [Using the Plugin APIs](plugin_APIs.ipynb)
 * [KIC 2835289](mult_ephem_kic_2835289.ipynb)
 * [HAT-P-7](short_cadence_phase_curve_HAT-P-7.ipynb)
 
