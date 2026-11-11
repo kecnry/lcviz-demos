@@ -34,6 +34,7 @@ Demo notebooks for [lcviz](https://github.com/spacetelescope/lcviz).  These note
 #### Binning
 
 * [HAT-P-7](short_cadence_phase_curve_HAT-P-7.ipynb)
+* [GJ 3929b](binlightcurve_rockyworlds_gj3929b.ipynb)
 
 #### Time Selector
 
